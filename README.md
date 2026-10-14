@@ -11,6 +11,10 @@ Residents can enter a province or territory, any city, town, or village, an opti
 
 Supabase's Free plan currently includes a 500 MB database and 1 GB file storage, but free projects may pause after one week of inactivity. Vercel Hobby is for personal, non-commercial projects. These are useful for a demo or early pilot, not a municipal production service with availability guarantees. Check provider terms and current quotas before launch.
 
+## Live Demo
+The system is live at a netlify domain, it can be accessed from the link: 
+Open <https://civicpulseproject.netlify.app/>
+
 ## Run locally
 
 From the project directory, install dependencies and start the complete local service:
